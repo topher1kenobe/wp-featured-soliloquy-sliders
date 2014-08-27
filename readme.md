@@ -6,8 +6,8 @@ Provides a metabox on posts and pages listing existing Soliloquy Sliders.
 **Contributors:** [topher1kenobe](http://profiles.wordpress.org/topher1kenobe)  
 **Tags:** [posts](http://wordpress.org/plugins/tags/posts), [pages](http://wordpress.org/plugins/tags/pages), [soliloquy](http://wordpress.org/plugins/tags/soliloquy), [sliders](http://wordpress.org/plugins/tags/sliders), [featured](http://wordpress.org/plugins/tags/featured)  
 **Requires at least:** 3.0  
-**Tested up to:** 3.9.2  
-**Stable tag:** 1.0  
+**Tested up to:** 4.0  
+**Stable tag:** 1.1  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
 
 ## Description ##
@@ -47,6 +47,9 @@ I haven't been asked any yet.  :)
 
 
 ## Changelog ##
+
+### 1.1 ###
+Check for WP 4.0
 
 ### 1.0 ###
 * Initial release.
